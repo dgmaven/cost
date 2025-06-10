@@ -1,0 +1,502 @@
+[
+  {
+    "school": "School 1 Academy",
+    "city": "Kuala Lumpur",
+    "state": "WP Kuala Lumpur",
+    "registration_fee": 561,
+    "deposit_fee": 725,
+    "monthly_fee": 424,
+    "url": "https://school1.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 2 Academy",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "registration_fee": 686,
+    "deposit_fee": 2071,
+    "monthly_fee": 1613,
+    "url": "https://school2.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 3 Academy",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "registration_fee": 462,
+    "deposit_fee": 2270,
+    "monthly_fee": 973,
+    "url": "https://school3.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 4 Academy",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "registration_fee": 351,
+    "deposit_fee": 1118,
+    "monthly_fee": 1878,
+    "url": "https://school4.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 5 Academy",
+    "city": "Kuala Lumpur",
+    "state": "WP Kuala Lumpur",
+    "registration_fee": 105,
+    "deposit_fee": 2577,
+    "monthly_fee": 1813,
+    "url": "https://school5.edu.my",
+    "status": "Featured"
+  },
+  {
+    "school": "School 6 Academy",
+    "city": "Ipoh",
+    "state": "Perak",
+    "registration_fee": 588,
+    "deposit_fee": 1549,
+    "monthly_fee": 1300,
+    "url": "https://school6.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 7 Academy",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "registration_fee": 417,
+    "deposit_fee": 2180,
+    "monthly_fee": 1672,
+    "url": "https://school7.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 8 Academy",
+    "city": "Ipoh",
+    "state": "Perak",
+    "registration_fee": 686,
+    "deposit_fee": 1232,
+    "monthly_fee": 1030,
+    "url": "https://school8.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 9 Academy",
+    "city": "Ipoh",
+    "state": "Perak",
+    "registration_fee": 166,
+    "deposit_fee": 1143,
+    "monthly_fee": 1285,
+    "url": "https://school9.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 10 Academy",
+    "city": "George Town",
+    "state": "Penang",
+    "registration_fee": 492,
+    "deposit_fee": 2840,
+    "monthly_fee": 1114,
+    "url": "https://school10.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 11 Academy",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "registration_fee": 116,
+    "deposit_fee": 1054,
+    "monthly_fee": 1691,
+    "url": "https://school11.edu.my",
+    "status": "Premium"
+  },
+  {
+    "school": "School 12 Academy",
+    "city": "Kuala Lumpur",
+    "state": "WP Kuala Lumpur",
+    "registration_fee": 228,
+    "deposit_fee": 2578,
+    "monthly_fee": 1899,
+    "url": "https://school12.edu.my",
+    "status": "Featured"
+  },
+  {
+    "school": "School 13 Academy",
+    "city": "Ipoh",
+    "state": "Perak",
+    "registration_fee": 289,
+    "deposit_fee": 2670,
+    "monthly_fee": 394,
+    "url": "https://school13.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 14 Academy",
+    "city": "Ipoh",
+    "state": "Perak",
+    "registration_fee": 891,
+    "deposit_fee": 2840,
+    "monthly_fee": 528,
+    "url": "https://school14.edu.my",
+    "status": "Premium"
+  },
+  {
+    "school": "School 15 Academy",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "registration_fee": 949,
+    "deposit_fee": 850,
+    "monthly_fee": 1680,
+    "url": "https://school15.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 16 Academy",
+    "city": "George Town",
+    "state": "Penang",
+    "registration_fee": 221,
+    "deposit_fee": 1335,
+    "monthly_fee": 1642,
+    "url": "https://school16.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 17 Academy",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "registration_fee": 568,
+    "deposit_fee": 1816,
+    "monthly_fee": 1325,
+    "url": "https://school17.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 18 Academy",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "registration_fee": 362,
+    "deposit_fee": 1542,
+    "monthly_fee": 1371,
+    "url": "https://school18.edu.my",
+    "status": "Featured"
+  },
+  {
+    "school": "School 19 Academy",
+    "city": "George Town",
+    "state": "Penang",
+    "registration_fee": 658,
+    "deposit_fee": 2153,
+    "monthly_fee": 1968,
+    "url": "https://school19.edu.my",
+    "status": "Premium"
+  },
+  {
+    "school": "School 20 Academy",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "registration_fee": 100,
+    "deposit_fee": 2584,
+    "monthly_fee": 793,
+    "url": "https://school20.edu.my",
+    "status": "Premium"
+  },
+  {
+    "school": "School 21 Academy",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "registration_fee": 509,
+    "deposit_fee": 1524,
+    "monthly_fee": 1044,
+    "url": "https://school21.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 22 Academy",
+    "city": "Alor Setar",
+    "state": "Kedah",
+    "registration_fee": 557,
+    "deposit_fee": 1316,
+    "monthly_fee": 373,
+    "url": "https://school22.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 23 Academy",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "registration_fee": 917,
+    "deposit_fee": 797,
+    "monthly_fee": 1392,
+    "url": "https://school23.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 24 Academy",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "registration_fee": 323,
+    "deposit_fee": 1574,
+    "monthly_fee": 707,
+    "url": "https://school24.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 25 Academy",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "registration_fee": 979,
+    "deposit_fee": 2840,
+    "monthly_fee": 1087,
+    "url": "https://school25.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 26 Academy",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "registration_fee": 757,
+    "deposit_fee": 2383,
+    "monthly_fee": 1155,
+    "url": "https://school26.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 27 Academy",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "registration_fee": 235,
+    "deposit_fee": 1973,
+    "monthly_fee": 1389,
+    "url": "https://school27.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 28 Academy",
+    "city": "George Town",
+    "state": "Penang",
+    "registration_fee": 415,
+    "deposit_fee": 931,
+    "monthly_fee": 1189,
+    "url": "https://school28.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 29 Academy",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "registration_fee": 766,
+    "deposit_fee": 1189,
+    "monthly_fee": 309,
+    "url": "https://school29.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 30 Academy",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "registration_fee": 279,
+    "deposit_fee": 2159,
+    "monthly_fee": 569,
+    "url": "https://school30.edu.my",
+    "status": "Premium"
+  },
+  {
+    "school": "School 31 Academy",
+    "city": "George Town",
+    "state": "Penang",
+    "registration_fee": 318,
+    "deposit_fee": 2837,
+    "monthly_fee": 406,
+    "url": "https://school31.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 32 Academy",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "registration_fee": 851,
+    "deposit_fee": 847,
+    "monthly_fee": 1779,
+    "url": "https://school32.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 33 Academy",
+    "city": "George Town",
+    "state": "Penang",
+    "registration_fee": 659,
+    "deposit_fee": 1562,
+    "monthly_fee": 1168,
+    "url": "https://school33.edu.my",
+    "status": "Featured"
+  },
+  {
+    "school": "School 34 Academy",
+    "city": "Ipoh",
+    "state": "Perak",
+    "registration_fee": 330,
+    "deposit_fee": 1539,
+    "monthly_fee": 1536,
+    "url": "https://school34.edu.my",
+    "status": "Featured"
+  },
+  {
+    "school": "School 35 Academy",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "registration_fee": 255,
+    "deposit_fee": 1126,
+    "monthly_fee": 838,
+    "url": "https://school35.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 36 Academy",
+    "city": "Kuala Lumpur",
+    "state": "WP Kuala Lumpur",
+    "registration_fee": 935,
+    "deposit_fee": 2355,
+    "monthly_fee": 565,
+    "url": "https://school36.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 37 Academy",
+    "city": "Ipoh",
+    "state": "Perak",
+    "registration_fee": 599,
+    "deposit_fee": 997,
+    "monthly_fee": 645,
+    "url": "https://school37.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 38 Academy",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "registration_fee": 346,
+    "deposit_fee": 933,
+    "monthly_fee": 1807,
+    "url": "https://school38.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 39 Academy",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "registration_fee": 672,
+    "deposit_fee": 1137,
+    "monthly_fee": 1774,
+    "url": "https://school39.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 40 Academy",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "registration_fee": 266,
+    "deposit_fee": 847,
+    "monthly_fee": 421,
+    "url": "https://school40.edu.my",
+    "status": "Basic"
+  },
+  {
+    "school": "School 41 Academy",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "registration_fee": 891,
+    "deposit_fee": 1811,
+    "monthly_fee": 503,
+    "url": "https://school41.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 42 Academy",
+    "city": "Ipoh",
+    "state": "Perak",
+    "registration_fee": 783,
+    "deposit_fee": 1801,
+    "monthly_fee": 457,
+    "url": "https://school42.edu.my",
+    "status": "Premium"
+  },
+  {
+    "school": "School 43 Academy",
+    "city": "Kuala Lumpur",
+    "state": "WP Kuala Lumpur",
+    "registration_fee": 803,
+    "deposit_fee": 2651,
+    "monthly_fee": 459,
+    "url": "https://school43.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 44 Academy",
+    "city": "George Town",
+    "state": "Penang",
+    "registration_fee": 106,
+    "deposit_fee": 1439,
+    "monthly_fee": 386,
+    "url": "https://school44.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 45 Academy",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "registration_fee": 493,
+    "deposit_fee": 2289,
+    "monthly_fee": 810,
+    "url": "https://school45.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 46 Academy",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "registration_fee": 935,
+    "deposit_fee": 1613,
+    "monthly_fee": 824,
+    "url": "https://school46.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 47 Academy",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "registration_fee": 624,
+    "deposit_fee": 1248,
+    "monthly_fee": 1207,
+    "url": "https://school47.edu.my",
+    "status": "Premium"
+  },
+  {
+    "school": "School 48 Academy",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "registration_fee": 145,
+    "deposit_fee": 2318,
+    "monthly_fee": 735,
+    "url": "https://school48.edu.my",
+    "status": "Premium"
+  },
+  {
+    "school": "School 49 Academy",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "registration_fee": 639,
+    "deposit_fee": 2830,
+    "monthly_fee": 1986,
+    "url": "https://school49.edu.my",
+    "status": "Claimed"
+  },
+  {
+    "school": "School 50 Academy",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "registration_fee": 414,
+    "deposit_fee": 1146,
+    "monthly_fee": 353,
+    "url": "https://school50.edu.my",
+    "status": "Claimed"
+  }
+]
